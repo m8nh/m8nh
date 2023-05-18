@@ -46,7 +46,7 @@
 </p>
 
 
-![Snake animation](https://github.com/{{m8nh}}/{{m8nh}}/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/m8nh/m8nh/blob/output/github-contribution-grid-snake.gif)
 
 
 
