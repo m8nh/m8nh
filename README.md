@@ -21,7 +21,7 @@
 
 ## About Me:
 
-- 🎓 I'm a Fresher Dev
+- 🎓 I'm a Front End Developer 
 - 🕹 In free time you will find me playing Video Games, Go to the GYM or watching anime
 - 👓 I'm currently studying at CodeGYM VN [CodeGYM VN](https://codegym.vn/)
 - 🎧 I love workout at the gym and hanging out with my friends
